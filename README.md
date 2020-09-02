@@ -18,10 +18,10 @@
 - Save comment.
 - Enjoy it!
 
-![screenshot](./img/ActiveRecord1.png)
-![screenshot](./img/ActiveRecord2.png)
-![screenshot](./img/ActiveRecord3.png)
-![screenshot](./img/ActiveRecord4.png)
+![screenshot](./img/image_users.png)
+![screenshot](./img/image_post.png)
+![screenshot](./img/image_commnet.png)
+
 
 
 
