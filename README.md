@@ -20,7 +20,7 @@
 
 ![screenshot](./img/image_users.png)
 ![screenshot](./img/image_post.png)
-![screenshot](./img/image_commnet.png)
+![screenshot](./img/image_comment.png)
 
 
 
