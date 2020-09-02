@@ -1,6 +1,28 @@
-# Micro-reddit
+# Micro-reddit 🚀 
 
-> This is micro-reddit build to practice all the features of active record of Ruby on Rails
+> In this project we practiced "Active Record" which "is the M in MVC - the model- which is the layer of the system responsible for representing business data and logic." (https://guides.rubyonrails.org/active_record_basics.html) of Ruby on Rails Framework. 
+
+> Micro-reddit is the name of our small application quite similar to Reddit (https://www.reddit.com/). 
+
+## Steps 
+- Open your Terminal.
+- Go to the project's root
+- Open rails Console.
+- Enable Hirb Gem.
+- Create new User.
+- Fill the User's attributes.
+- Save user.
+- Create a Post (remember to fill the id of the user)
+- Save post.
+- Create a Comment (remember to fill with the id of user and id of the post)
+- Save comment.
+- Enjoy it!
+
+![screenshot](./img/ActiveRecord1.png)
+![screenshot](./img/ActiveRecord2.png)
+![screenshot](./img/ActiveRecord3.png)
+![screenshot](./img/ActiveRecord4.png)
+
 
 
 
@@ -35,7 +57,7 @@
 - Twitter: [@pablo_acz](https://twitter.com/pablo_acz)
 - Linkedin: [linkedin](https://www.linkedin.com/in/pablo-alexis-zambrano-coral-7a614a189/)
 
-**Jasem Duncan Valencia**
+👤 **Jasem Duncan Valencia Vargas**
 
 - Github: [@JasemDuncan](https://github.com/JasemDuncan)
 - Twitter: [@JasemDuncan](https://twitter.com/JasemValencia)
